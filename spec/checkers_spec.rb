@@ -13,7 +13,7 @@ describe CheckerError do
   describe '#check_white_spaces' do
     it 'it return white space error on line 2' do
       checker.check_white_spaces
-      expect(checker.errors[0]).to eql('line:2:31: Error: whitespace detected')
+      expect(checker.errors[0]).to eql('line:2:33: Error: whitespace detected')
     end
   end
 
