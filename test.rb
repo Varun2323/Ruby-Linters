@@ -1,4 +1,3 @@
-
 class Dog
     def initialize(breed, cost)  
       @breed = breed
