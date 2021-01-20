@@ -145,9 +145,13 @@ $ gem install colorize
 $ run rspec
 
 
-## Authors
+## Author
 
-👤 **VArun Sharma** 
+👤 Varun Sharma
+
+GitHub: [@Varun2323](https://github.com/Varun2323)
+
+LinkedIn: [Varun Sharma](https://www.linkedin.com/in/varun-sharma-82b29b82/) 
 
 
 
