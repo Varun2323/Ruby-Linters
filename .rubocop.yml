@@ -2,6 +2,7 @@ AllCops:
   Exclude:
     - "Guardfile"
     - "Rakefile"
+    - "test.rb"
 
   DisplayCopNames: true
 
@@ -30,7 +31,7 @@ Style/DefWithParentheses:
   Enabled: false
 Style/FrozenStringLiteralComment:
   EnforcedStyle: never
-Style/FrozenStringLiteralComment:
+Style/GuardClause:
   Enabled: false
 
 Layout/HashAlignment:
